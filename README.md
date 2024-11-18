@@ -22,6 +22,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />](https://www.linkedin.com/in/joshmadakor)
+
+
 [<img align="left" alt="GemaRuber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />]( https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)
 
 
