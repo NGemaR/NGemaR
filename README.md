@@ -24,10 +24,9 @@
 
 [<img align="left" alt="GemaRuber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<b> [email]: gemaruber@outlook.com <b>
-
 [linkedin]:  https://www.linkedin.com/in/nurit-gema-ruber-89140b11/
 
+<b> [email]: gemaruber@outlook.com <b>
  
 
 <!--
