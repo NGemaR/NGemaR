@@ -21,6 +21,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="(https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)" />][linkedin]
+
 <b> [email]: gemaruber@outlook.com <b>
 
 [youtube]:  
