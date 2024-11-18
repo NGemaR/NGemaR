@@ -1,6 +1,6 @@
 
 
-<h1>Hi, I'm Gema! <br/><a href="https://github.com/NGemaR">Data and Business Analyst</a>, <a href="[(https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)"/> ServiceNow Professional</a> and Data Specialist <a href="[(https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)"/>
+<h1>Hi, I'm Gema! <br/><a href="https://github.com/NGemaR">Data and Business Analyst</a>, ServiceNow Professional</a> and Data Specialist />
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
