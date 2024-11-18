@@ -21,7 +21,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="GemaRuber | LinkedIn" width="22px" src="(https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)" />][linkedin]
-[<img align="left" alt="GemaRuber | Email:" width="22px" src= "gemaruber@outlook.com" >
+[<img align="left" alt="GemaRuber | Email:" width="22px" src= "gemaruber@outlook.com" />][Email]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
