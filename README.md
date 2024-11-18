@@ -19,8 +19,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[![Linkedin](https://i.sstatic.net/gVE0j.png)
-[![Linkedin](https://i.sstatic.net/gVE0j.png) align="left" alt="GemaRuber | LinkedIn" width="22px" src="(https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)" />][linkedin]
+
+[<Img align="left" (https://i.sstatic.net/gVE0j.png) alt="GemaRuber | LinkedIn" width="22px" src="(https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)" />][linkedin]
 
 <b> [email]: gemaruber@outlook.com <b>
 
