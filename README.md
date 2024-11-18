@@ -22,7 +22,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<Img align="left" (https://i.sstatic.net/gVE0j.png) alt="GemaRuber | LinkedIn" width="22px" src="(https://www.linkedin.com/in/nurit-gema-ruber-89140b11/)" <Img/>][linkedin]
+[<img align="left" alt="GemaRuber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <b> [email]: gemaruber@outlook.com <b>
 
